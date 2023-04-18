@@ -18,9 +18,9 @@ I'm a Software Development Engineer in Test and Front-End Developer. I'm current
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Add Firebase Realtime Database To Your React App](https://alexpeterhall.com/blog/2023/04/18/integrate-firebase-and-react/)
 - [Quickly Install Firebase Local Emulators](https://alexpeterhall.com/blog/2023/04/14/install-firebase-local-emulator/)
 - [Convert Jest Tests to TypeScript](https://alexpeterhall.com/blog/2022/12/22/jest-typescript/)
 - [Mac Terminal Upgrade](https://alexpeterhall.com/blog/2021/10/20/mac-terminal-upgrade/)
 - [Python Syntax Hot Take from a JavaScript Perspective](https://alexpeterhall.com/blog/2021/05/27/python-vs-javascript-syntax/)
-- [freeCodeCamp JavaScript Certification](https://alexpeterhall.com/blog/2021/04/15/fcc-javascript-certification/)
 <!-- BLOG-POST-LIST:END -->
