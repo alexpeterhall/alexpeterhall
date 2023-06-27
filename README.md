@@ -1,11 +1,11 @@
 ## Hi, I'm Alex
 
-I'm a Software Development Engineer in Test and Front-End Developer. I'm currently focused on mastering TypeScript/JavaScript, Git, and Docker and building test automation. Also, having a lot of fun with [Eleventy](https://www.11ty.dev/), learning about static-site generators, and all that cool Jamstack stuff.
+I help companies build and improve their manual and automated testing practices. I have over a decade of professional experience in Quality Assurance performing manual testing, leading testing teams, and building test automation frameworks and end-to-end tests. I am 100% focused on software engineering and driving software quality through test automation using the latest technologies. I'm also having a lot of fun with [Eleventy](https://www.11ty.dev/), React, learning about static-site generators, and all that cool Jamstack stuff.
 
 - 📫 How to reach me: alexpeterhall @ gmail
-- 🛠 I'm currently working on test automation with WebdriverIO, TypeScript, and Docker.
-- 🚀 I'm currently learning Python and focusing on computer science fundamentals.
-- 🏍 Fun fact: I play classical violin and ride motorcycles.
+- 🛠 I'm currently working on test automation with WebdriverIO, Cypress, TypeScript, and Docker.
+- 🚀 I'm currently learning Python, React, and focusing on computer science fundamentals.
+- 🏍 Fun facts: I play classical violin, ride motorcycles, and love watches.
 
 ---
 
