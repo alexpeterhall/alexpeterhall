@@ -18,7 +18,7 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Firebase with React Component Provider Pattern](https://alexpeterhall.com/blog/2023/07/15/firebase-with-react-component-provider/)
+- [Firebase with React Provider Component Pattern](https://alexpeterhall.com/blog/2023/07/15/firebase-with-react-provider-component/)
 - [Fix missing Cypress type definitions](https://alexpeterhall.com/blog/2023/07/01/fix-cypress-types/)
 - [Add Firebase Realtime Database To Your React App](https://alexpeterhall.com/blog/2023/04/18/integrate-firebase-and-react/)
 - [Quickly Install Firebase Local Emulators](https://alexpeterhall.com/blog/2023/04/14/install-firebase-local-emulator/)
